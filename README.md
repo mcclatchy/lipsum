@@ -1,2 +1,2 @@
 # lipsum
-A paired down starter file for in-depth projects.
+A pared down starter file for in-depth projects.
